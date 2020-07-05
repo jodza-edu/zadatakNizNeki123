@@ -1,4 +1,6 @@
-﻿#include "stdio.h"
+﻿
+//Jun 2016 - Zad. 3.
+#include "stdio.h"
 #include "string.h"
 
 void main() {
